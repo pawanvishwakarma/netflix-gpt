@@ -1,6 +1,11 @@
 # Netflix - GPT
  - Create React App
  - Configure TailwindCSS
+ - Rounting our App
+ - Login 
+ - SignUp
+ - Form validation
+ - useRef Hook
 
 
 # Feature
