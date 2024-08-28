@@ -1,10 +1,11 @@
 
 import './App.css';
+import Body from './Components/Body';
 
 function App() {
   return (
-    <div className="text-green-600">
-      Namaste Netflix
+    <div className="">
+      <Body />
     </div>
   );
 }
