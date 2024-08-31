@@ -6,6 +6,18 @@
  - SignUp
  - Form validation
  - useRef Hook
+ - firebase setup
+ - Deploying our app to production
+ - firebase Authentication
+   - LogIn/SignUp
+   - Manage users
+     - updateProfile
+     - onAuthStateChanged
+   - Password Authentication
+     - createUserWithEmailAndPassword
+     - signInWithEmailAndPassword
+     - signOut
+
 
 
 # Feature
