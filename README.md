@@ -31,7 +31,9 @@
      - create VideoTitle Components
        - fetch first movie from MovieList and render its Title and overview
    - SecandaryContainer Components
-
+     - Created MovieList Component
+     - Created MovieCard Component
+     - Created custom hook for fetch data for it and rendered.
 
 # Feature
 - Login/ Sign Up
