@@ -17,7 +17,20 @@
      - createUserWithEmailAndPassword
      - signInWithEmailAndPassword
      - signOut
-
+ - Create account on TMDB
+ - Get API token
+ - TMDB API fetch
+ - Create custom hooks
+   - useMovieTrailer
+     - fetch trailer from video API
+     - VideoBackground Components
+       - fetch Vedio API and render its trailer
+   - useNowPlayingMovie
+     - fetch Movielist data from API
+     - create MainContainer
+     - create VideoTitle Components
+       - fetch first movie from MovieList and render its Title and overview
+   - SecandaryContainer Components
 
 
 # Feature
